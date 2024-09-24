@@ -1,0 +1,32 @@
+.baslik{
+    color:#001F3F;
+}
+
+.baslik2{
+    color:#3A6D8C;
+}
+
+.baslik3{
+    color:#6A9AB0;
+}
+
+.basliklar{
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    text-align-last: center;
+    list-style-position: inside;
+}
+
+.metinler{
+    font-family: "Gowun Batang", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #3C3633;
+}
+
+#hakkimizda{
+    text-align-last:left;
+}
